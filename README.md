@@ -79,7 +79,7 @@
 [everyday]: https://raw.githubusercontent.com/hr157/github-hans/gh-pages/preview/everyday.png
 [github-hans]: https://raw.githubusercontent.com/hr157/github-hans/gh-pages/preview/github-hans.gif "github-hans"
 
-[Tampermonkey]: https://github.com/hr157/github-hans/blob/gh-pages/Tampermonkey%20_v4.10.crx "Tampermonkey"
+[Tampermonkey]: https://github.com/hr157/github-hans/blob/gh-pages/Tampermonkey_v4.10.crx "Tampermonkey"
 
 
 [issues-url]: https://github.com/hr157/github-hans/issues
